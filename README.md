@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm YasirHafeez</h1>
-<h3 align="center">I'm a Software Engineering undergraduate with a passion for Data Analytics. I enjoy exploring datasets, deriving meaningful insights, and applying analytical techniques to solve real-world problems. Always learning by doing and improving my analytical and programming skills. 📊 Currently focused on: Python, R, SQL, Excel, and data visualization 📚 Learning: Machine learning, Tableau, Power BI, and advanced statistical modeling 🤝 Open to collaborate: Data analytics projects and GitHub contributions 📝 2025 Goals: Complete 3+ personal data analysis projects Contribute to open-source analytics projects Build a portfolio of data-driven insights 📍 Location: Hydrabad, Sindh, Pakistan ✨ Fun fact: I enjoy turning complex data into actionable insights and visual stories! 💻 Tech Stack: Python 🐍 | R 📊 | SQL 🗄️ | Excel 📈 | Power BI 📊 | Tableau 📊 | Git & GitHub 🧑‍💻 | Jupyter Notebook 📝</h3>
+<h3 align="center">I'm a Software Engineering undergraduate with a passion for Data Analytics. I enjoy exploring datasets, deriving meaningful insights, and applying analytical techniques to solve real-world problems. Always learning by doing and improving my analytical and programming skills.
+  📊 Currently focused on: Python, R, SQL, Excel, and data visualization 
+  📚 Learning: Machine learning, Tableau, Power BI, and advanced statistical modeling 
+  🤝 Open to collaborate: Data analytics projects and GitHub contributions 
+  📝 2025 Goals: Complete 3+ personal data analysis projects Contribute to open-source analytics projects Build a portfolio of data-driven insights
+  📍 Location: Hydrabad, Sindh, Pakistan 
+  ✨ Fun fact: I enjoy turning complex data into actionable insights and visual stories! 
+  💻 Tech Stack: Python 🐍 | R 📊 | SQL 🗄️ | Excel 📈 | Power BI 📊 | Tableau 📊 | Git & GitHub 🧑‍💻 | Jupyter Notebook 📝</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirhafeezsw010&label=Profile%20views&color=0e75b6&style=flat" alt="yasirhafeezsw010" /> </p>
 
